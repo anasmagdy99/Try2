@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ANAS", "ANAS\ANAS.csproj", "{F459D7F8-FBCE-463A-9570-BF79F7B06E72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F459D7F8-FBCE-463A-9570-BF79F7B06E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F459D7F8-FBCE-463A-9570-BF79F7B06E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F459D7F8-FBCE-463A-9570-BF79F7B06E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F459D7F8-FBCE-463A-9570-BF79F7B06E72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB38EA9F-789E-45D9-9245-31102EE9426A}
+	EndGlobalSection
+EndGlobal
